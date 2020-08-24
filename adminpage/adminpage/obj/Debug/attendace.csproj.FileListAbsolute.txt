@@ -1,0 +1,10 @@
+E:\C# project\adminpage\adminpage\bin\adminpage.dll
+E:\C# project\adminpage\adminpage\bin\adminpage.pdb
+E:\C# project\adminpage\adminpage\obj\Debug\adminpage.dll
+E:\C# project\adminpage\adminpage\obj\Debug\adminpage.pdb
+E:\C# project\adminpage\adminpage\obj\Debug\attendace.csprojResolveAssemblyReference.cache
+E:\C# project\update project(not DEL)\adminpage\adminpage\bin\adminpage.dll
+E:\C# project\update project(not DEL)\adminpage\adminpage\bin\adminpage.pdb
+E:\C# project\update project(not DEL)\adminpage\adminpage\obj\Debug\attendace.csprojResolveAssemblyReference.cache
+E:\C# project\update project(not DEL)\adminpage\adminpage\obj\Debug\adminpage.dll
+E:\C# project\update project(not DEL)\adminpage\adminpage\obj\Debug\adminpage.pdb

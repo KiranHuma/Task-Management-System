@@ -1,0 +1,9 @@
+E:\C# project\taskmanagment\taskmanagment\bin\Debug\taskmanagment.exe
+E:\C# project\taskmanagment\taskmanagment\bin\Debug\taskmanagment.pdb
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.markattndce.resources
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.Properties.Resources.resources
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.csproj.GenerateResource.Cache
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.exe
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.pdb
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.Main.resources
+E:\C# project\taskmanagment\taskmanagment\obj\x86\Debug\taskmanagment.csprojResolveAssemblyReference.cache
